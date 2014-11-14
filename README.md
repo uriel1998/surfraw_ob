@@ -46,6 +46,18 @@ There are three variables that need to be changed in the script.  Sane defaults 
 
 Obviously, edit the path names as appropriate.
 
+	
 		<item label="search"><action name="execute"><execute>/home/USERNAME/scripts/openbox/searchraw -d</execute></action></item>
 		<menu execute="/home/USERNAME/scripts/openbox/searchraw" id="searchraw" label="searchraw"/>			
 
+
+# Screenshots
+
+###Showing selected elvi
+![selected elvi](https://raw.githubusercontent.com/uriel1998/surfraw_ob/master/selected_elvi.png)
+
+### Entering search text
+![search text](https://raw.githubusercontent.com/uriel1998/surfraw_ob/master/search_popup.png)
+
+###Showing Generated OB Menu
+![Showing OB Menu](https://raw.githubusercontent.com/uriel1998/surfraw_ob/master/elvi_list.png)
